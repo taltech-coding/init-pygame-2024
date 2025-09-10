@@ -1,6 +1,6 @@
-![Flappy Ago - MINIT2025 edition](images/logo.png "Flappy Ago - MINIT2025 edition")
+![Flappy Ago - INIT2025 edition](images/logo.png "Flappy Ago - INIT2025 edition")
 
-# MINIT - mängu töötuba
+# INIT - mängu töötuba
 
 - [Abivahendid](#abivahendid)
 - [Sissejuhatus](#sissejuhatus)
@@ -25,7 +25,7 @@ lahendused. Tunnis kasutatud slaidiesitlust on võimalik järele vaadata
 [siit](https://docs.google.com/presentation/d/17bwAzKgsy6hG3zJu4hbubYgroGwYZy9pT4Idesi9Hmo/edit)!
 
 ## Sissejuhatus
-Oled praktikant ja sinu ülesandeks on anda viimane lihv tulevasele AAAA mängule "Flappy Ago: MINIT2025 edition"!
+Oled praktikant ja sinu ülesandeks on anda viimane lihv tulevasele AAAA mängule "Flappy Ago: INIT2025 edition"!
 
 Aga oh aeg - pool koodi on kogemata ära kustunud, sest üks töötajatest unustas oma muudatused salvestada!
 
