@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-import pygame
-from constants import *
-
-screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-=======
 import pygame as pg
 import json
 from enemy import Enemy
@@ -78,4 +72,3 @@ while run:
   pg.display.flip()
 
 pg.quit()
->>>>>>> aaf1cbc (DEMO 1 VERSION)
