@@ -12,13 +12,18 @@ Mängija ei tohi paigutada keskkonnast välja ühtegi kaitsemehhanismi
 
 Mängija ei tohi kasutada rohkem raha kui tal hetke seisundil on
 
-Mängu tegelased / objektid
+Mängu tegelased / objektid:
+
 Mängija on lossi kuningas, tema vastasteks on zombie’d, rüütlid vms koletised, kes proovivad lossi sisse saada.
+
 Mängija peab koguma raha vastaste tapmisega, et osta juurde rohkem kaitsemehhanisme
-Mängu takistused/väljakutse
+
+Mängu takistused/väljakutse:
+
 Väljakutseks on konstantne vastase pealetungimine ja vastase arvu ja nende elutaseme suurenemine üleaja.
 Mäng lõppeb kas vastase võiduga (lossi murti sisse) või mängija võiduga (kõik vastased on surnud, tase 100 on saavutatud)
 
 Egert Nõulik - üldine mängu programmeerimine, heli
 
 Sebastian Tali - mängu vastased, art design
+<img width="720" height="720" alt="map" src="https://github.com/user-attachments/assets/6617780d-98cf-4295-8ed1-acfd9da8a8f9" />
