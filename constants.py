@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 """This file holds all constants for the Flappy Bird game."""
 
 SCREEN_WIDTH = 600              # Width and height measured in pixels.
@@ -15,3 +16,8 @@ PIPE_GAP = 500                  # Bigger number -> Bigger gap (default = 500, no
 PIPE_VELOCITY = 5               # Bigger number -> Faster moving pipes (default = 5)
 DISTANCE_BETWEEN_PIPES = 300    # Bigger number -> More pipes (default = 300)
 TIME_BEFORE_FIRST_PIPE = 750    # Bigger number -> More time to wait (default = 750)
+=======
+SCREEN_WIDTH = 720
+SCREEN_HEIGHT = 720
+FPS = 60
+>>>>>>> aaf1cbc (DEMO 1 VERSION)
